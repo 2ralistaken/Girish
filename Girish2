@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Müəllimin sistemə girişi</title>
+<head>
+<link rel="stylesheet" href="dizayn.css">
+</head>
+<body>
+<form>
+Ad <br>
+<input type="text" ad="Ad"> <br>
+Soyad <br>
+<input type="text" ad="soyaddd"> <br>
+Doğum tarixi <br>
+<input type="date" ad="vaxt"> <br>
+İstifadəçi adı:<br>
+<input type="text" ad="id"> <br>
+Şifrə:<br>
+<input type="password" ad="kod"> <br> <br>
+<input type="submit" ad="submit"> <br>
+<a href="Girish.html">Daxil ol </a>
+</form>
+</body>
+</html>
